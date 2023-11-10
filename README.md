@@ -10,9 +10,10 @@
 - https://mfinante.gov.ro/ro/web/efactura/informatii-tehnice
 - https://mfinante.gov.ro/documents/4398723/5002737/E-facturaFAQ.pdf
 
-> Q: De unde pot descărca clientul GitHub pus la dispoziție gratuit (cel dezvoltat de CNIF)?
-
-> A: Încă nu este publicat. Este in curs de testare
+| Q     | A |
+| ----------- | ----------- |
+| De unde pot descărca clientul GitHub pus la dispoziție gratuit (cel dezvoltat de CNIF)?      | Încă nu este publicat. Este in curs de testare       |
+| Care este motivul pentru care uneori primim mesajul "Utilizator neautorizat"?    | Repetați apelul și va funcționa        |
 
 - https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura
 
