@@ -1,3 +1,10 @@
+# De ce?
+
+- obligatoriu pentru toate tranzacțiile B2B și B2G din România, începând cu ianuarie 2024
+- B2B vor fi acceptate doar facturile electronice furnizate prin Spațiul Privat Virtual (SPV) (format XML cuprinzând sigiliul MF)
+- termen limită de raportare de 5 zile lucrătoare
+
+
 # Documentație oficială
 
 - https://mfinante.gov.ro/ro/web/efactura/informatii-tehnice
@@ -6,6 +13,8 @@
 > Q: De unde pot descărca clientul GitHub pus la dispoziție gratuit (cel dezvoltat de CNIF)?
 
 > A: Încă nu este publicat. Este in curs de testare
+
+- https://www.anaf.ro/anaf/internet/ANAF/despre_anaf/strategii_anaf/proiecte_digitalizare/e.factura
 
 ## Formular testare
 
