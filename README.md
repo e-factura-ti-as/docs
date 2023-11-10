@@ -3,8 +3,9 @@
 - https://mfinante.gov.ro/ro/web/efactura/informatii-tehnice
 - https://mfinante.gov.ro/documents/4398723/5002737/E-facturaFAQ.pdf
 
->** Q:** De unde pot descărca clientul GitHub pus la dispoziție gratuit (cel dezvoltat de CNIF)?
-> **A: **Încă nu este publicat. Este in curs de testare
+> Q: De unde pot descărca clientul GitHub pus la dispoziție gratuit (cel dezvoltat de CNIF)?
+
+> A: Încă nu este publicat. Este in curs de testare
 
 ## Formular testare
 
