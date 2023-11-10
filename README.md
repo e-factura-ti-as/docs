@@ -1,7 +1,7 @@
-# De ce?
+# Despre e-Factura
 
 - obligatoriu pentru toate tranzacțiile B2B și B2G din România, începând cu ianuarie 2024
-- B2B vor fi acceptate doar facturile electronice furnizate prin Spațiul Privat Virtual (SPV) (format XML cuprinzând sigiliul MF)
+- vor fi acceptate doar facturile electronice furnizate prin Spațiul Privat Virtual (SPV) (format XML cuprinzând sigiliul MF)
 - termen limită de raportare de 5 zile lucrătoare
 
 
